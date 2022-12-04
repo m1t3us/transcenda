@@ -211,7 +211,7 @@ td {border-right:1px solid #fff;}
 .background-dark-hightlight .aside-nav > ul > li.active-item > a:link, .background-dark-hightlight .aside-nav > ul > li.active-item > a:visited,
 .primary-color-dark .background-primary-hightlight .top-nav .active-item > a, .primary-color-dark .background-primary-hightlight .top-nav li a:hover, .primary-color-dark .background-primary-hightlight .aside-nav li a:hover, 
 .primary-color-dark .background-primary-hightlight .aside-nav > ul > li.active-item > a:link, .primary-color-dark .background-primary-hightlight .aside-nav > ul > li.active-item > a:visited {
-  background: #002633 none repeat scroll 0 0;
+  background: #5bcefa none repeat scroll 0 0;
   color: #fff;
 }
 .background-none {
@@ -424,7 +424,7 @@ aside.aside-left {
 }  
 .aside-nav.background-dark-hightlight > ul > li > a:hover, .aside-nav.background-dark-hightlight > ul > li.active-item > a:link, .aside-nav.background-dark-hightlight > ul > li.active-item > a:visited,
 .primary-color-dark .aside-nav.background-primary-hightlight > ul > li > a:hover, .primary-color-dark .aside-nav.background-primary-hightlight > ul > li.active-item > a:link, .primary-color-dark .aside-nav.background-primary-hightlight > ul > li.active-item > a:visited {
-  border-color: #002633;
+  border-color: #5bcefa;
 }
 
 /* Font colors */
@@ -487,10 +487,10 @@ aside.aside-left {
   background-color: #fff !important;
 }
 .background-primary, .primary-color-primary .background-primary {
-  background-color: #C81010 !important;
+  background-color: #f5a9b8 !important;
 }
 .background-dark, .primary-color-dark .background-primary {
-  background-color: #002633 !important; 
+  background-color: #5bcefa !important; 
 }
 /* Background Opacity */
 .background-white.background-transparent, .primary-color-white .background-primary.background-transparent {
@@ -1176,12 +1176,12 @@ a.tab-label, a.tab-label:link, a.tab-label:visited, a.tab-label:hover,
 }
 .background-primary-hightlight a.tab-label.active-btn, .background-primary-hightlight a.tab-label:hover,
 .primary-color-primary .background-primary-hightlight a.tab-label.active-btn, .primary-color-primary .background-primary-hightlight a.tab-label:hover {
-  background: #C81010 none repeat scroll 0 0;
+  background: #5bcefa none repeat scroll 0 0;
   color: #fff;
 }
 .background-dark-hightlight a.tab-label.active-btn, .background-dark-hightlight a.tab-label:hover,
 .primary-color-dark .background-primary-hightlight a.tab-label.active-btn, .primary-color-dark .background-primary-hightlight a.tab-label:hover {
-  background: #002633 none repeat scroll 0 0;
+  background: #5bcefa none repeat scroll 0 0;
   color: #fff;
 }
 
